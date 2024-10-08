@@ -1,0 +1,20 @@
+p {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.secondClass {
+    font-size: 24px;
+}
+
+#firstID {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#secondID{
+    background-color: rgb(0, 0, 250)
+    font-size 24px;
+    font-weight: 700;
+    background-color: rgb(0, 255, 0);
+}
